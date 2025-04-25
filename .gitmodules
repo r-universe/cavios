@@ -1,4 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cavios/cavios.r-universe.dev
 	branch = HEAD
+[submodule "LakeGeoid"]
+	path = LakeGeoid
+	url = https://github.com/cavios/LakeGeoid
+	subdir = LakeGeoid
+[submodule "tsHydro"]
+	path = tsHydro
+	url = https://github.com/cavios/tshydro
+	subdir = tsHydro
